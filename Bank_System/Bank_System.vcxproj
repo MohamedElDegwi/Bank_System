@@ -104,7 +104,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>D:\C++ programming\Currency Exchange\Currency Exchange;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\C++ Programming VS\Currency Exchange\Currency Exchange;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -165,11 +165,6 @@
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Bank_System.rc" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\Currency Exchange\Currency Exchange\Currency Exchange.vcxproj">
-      <Project>{13f9e9a6-0198-46ed-9260-e8d05b58fb95}</Project>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

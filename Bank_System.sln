@@ -5,8 +5,6 @@ VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bank_System", "Bank_System\Bank_System.vcxproj", "{4716AE29-8670-496F-9704-63D1F36E706B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Currency Exchange", "..\Currency Exchange\Currency Exchange\Currency Exchange.vcxproj", "{13F9E9A6-0198-46ED-9260-E8D05B58FB95}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -23,14 +21,6 @@ Global
 		{4716AE29-8670-496F-9704-63D1F36E706B}.Release|x64.Build.0 = Release|x64
 		{4716AE29-8670-496F-9704-63D1F36E706B}.Release|x86.ActiveCfg = Release|Win32
 		{4716AE29-8670-496F-9704-63D1F36E706B}.Release|x86.Build.0 = Release|Win32
-		{13F9E9A6-0198-46ED-9260-E8D05B58FB95}.Debug|x64.ActiveCfg = Debug|x64
-		{13F9E9A6-0198-46ED-9260-E8D05B58FB95}.Debug|x64.Build.0 = Debug|x64
-		{13F9E9A6-0198-46ED-9260-E8D05B58FB95}.Debug|x86.ActiveCfg = Debug|Win32
-		{13F9E9A6-0198-46ED-9260-E8D05B58FB95}.Debug|x86.Build.0 = Debug|Win32
-		{13F9E9A6-0198-46ED-9260-E8D05B58FB95}.Release|x64.ActiveCfg = Release|x64
-		{13F9E9A6-0198-46ED-9260-E8D05B58FB95}.Release|x64.Build.0 = Release|x64
-		{13F9E9A6-0198-46ED-9260-E8D05B58FB95}.Release|x86.ActiveCfg = Release|Win32
-		{13F9E9A6-0198-46ED-9260-E8D05B58FB95}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
