@@ -88,5 +88,3 @@ The system comprises over 20 screens, each embodying clean code practices. The f
    - Merged currency exchange project for seamless currency operations.
 
    [Screenshot: Currency Exchange Integration]
-
-Feel free to incorporate actual screenshots in the respective sections to provide visual context for each feature.
