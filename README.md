@@ -44,47 +44,50 @@ The system comprises over 20 screens, each embodying clean code practices. The f
    - The system user can only access the system with an existing username and password.
    - Users have three attempts to log in successfully; otherwise, the system will close automatically.
 
-   [Screenshot: Login Screen]
+   ![failed login](https://github.com/MohamedElDegwi/Bank_System/blob/main/Screenshots/Login%20Screen.png)
+
 
 2. **Main Screen**
 
    - After a successful login, the main screen with 10 options is displayed to the user.
 
-   [Screenshot: Main Screen]
+   ![Main Screen](https://github.com/MohamedElDegwi/Bank_System/blob/main/Screenshots/Main%20Screen.png)
+
 
 3. **Access to System Features**
 
    - Only admins can access all system features.
    - Other users are granted access to specific features. Unauthorized attempts result in denial.
 
-   [Screenshot: Unauthorized Access]
+   ![Access Denied screen](https://github.com/MohamedElDegwi/Bank_System/blob/main/Screenshots/Access%20Screen.png)
+
 
 4. **Manage Clients**
 
    - Users can add, delete, update, and find clients.
-
-   [Screenshot: Manage Clients]
+     
 
 5. **Make Transactions**
 
    - Perform various transactions: deposit, withdraw, transfer between accounts, and view transfer logs.
 
-   [Screenshot: Transactions]
+  ![Transactions Screen](https://github.com/MohamedElDegwi/Bank_System/blob/main/Screenshots/Transactions%20Screen.png)
+
 
 6. **Manage Users**
 
    - Admins can add, delete, update, find, and view the list of users.
 
-   [Screenshot: Manage Users]
+   ![Manage Users Screen](https://github.com/MohamedElDegwi/Bank_System/blob/main/Screenshots/Manage%20Users%20Screen.png)
+
 
 7. **Show Login Registers**
 
    - View login records for basic security.
 
-   [Screenshot: Login Registers]
 
 8. **Currency Exchange Integration**
 
    - Merged currency exchange project for seamless currency operations.
 
-   [Screenshot: Currency Exchange Integration]
+   ![Currency Exchange Screen](https://github.com/MohamedElDegwi/Bank_System/blob/main/Screenshots/Currency%20Exchange%20screen.png)
