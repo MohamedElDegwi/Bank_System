@@ -1,10 +1,10 @@
 # Bank System Project
 
-A simulation of a real-world banking system implemented in C++ using a 3-tier architecture.
+A simple and small scale simulation of a real-world banking system implemented in C++ using object oriented programming concepts and 3-tier architecture.
 
 ## Overview
 
-The Bank System project is designed to reflect the intricacies of real-world banking operations in a scalable and maintainable manner. Leveraging the principles of object-oriented programming (OOP) and clean code practices, this project embodies efficiency and clarity in its structure.
+The Bank System project is designed to reflect a real-world banking operations in a small scale and simple functionallity. Leveraging the principles of object-oriented programming (OOP) and clean code practices, this project embodies some clarity in its structure.
 
 ## Key Features
 
@@ -20,8 +20,8 @@ Utilizes the power of C++ and the fstream library for seamless data storage and 
 
 The project embraces key OOP concepts to ensure robustness and flexibility:
 
-- Classes and Objects: Extensive use of classes and objects for encapsulation and abstraction.
-- Encapsulation: Protects the internal state of objects, restricting access to only necessary components for improved security and maintainability.
+- Classes and Objects: Use of classes and objects for encapsulation and abstraction.
+- Encapsulation: Protects the internal state of objects, restricting access to only necessary components for improved security.
 - Inheritance and Polymorphism: Enhances code reusability and readability through inheritance and polymorphic behaviors.
 - Abstraction: Focuses on essential properties and behaviors, hiding unnecessary details to simplify complexity.
 
@@ -35,7 +35,7 @@ The implementation adheres to some clean code principles:
 
 ### Screens and Functionality
 
-The system comprises over 20 screens, each embodying clean code practices. The flow of screens facilitates an intuitive user experience, mirroring real-world banking interactions.
+The system contains over 20 screens, mirroring some of real-world bank-system interactions.
 
 ## Main Features
 
@@ -69,7 +69,7 @@ The system comprises over 20 screens, each embodying clean code practices. The f
 
 5. **Make Transactions**
 
-   - Perform various transactions: deposit, withdraw, transfer between accounts, and view transfer logs.
+   - Perform various transactions: deposit, withdraw, transfer between accounts, veiw all clients balances, and view transfer logs.
 
   ![Transactions Screen](https://github.com/MohamedElDegwi/Bank_System/blob/main/Screenshots/Transactions%20Screen.png)
 
